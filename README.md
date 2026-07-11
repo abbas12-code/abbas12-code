@@ -57,8 +57,7 @@ I've worked hands-on with mission-critical data center infrastructure and one of
 **Programming Languages**
 
 ![Python](https://skillicons.dev/icons?i=py)
-![MATLAB] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/>
-(https://img.shields.io/badge/MATLAB-6D28D9?style=flat-square&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-6D28D9?style=flat-square&logo=mathworks&logoColor=white)
 ![C](https://skillicons.dev/icons?i=c)
 
 **Data & Visualization**
