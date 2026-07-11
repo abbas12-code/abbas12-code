@@ -1,224 +1,169 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,10,12,14&text=ARSLAN%20ABBAS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineer%20%7C%20Power%20Systems%20%7C%20AI%2FML%20for%20Energy&descAlignY=58&descSize=18" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Arslan%20Abbas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineer%20%7C%20Power%20Systems%20%7C%20AI%20for%20Energy&descAlignY=58&descSize=18)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Power+Systems+%2B+Smart+Grid+Engineer;AI%2FML+Applications+in+Energy+Networks;Renewable+Energy+Integration+%26+Microgrids;IoT-Based+Control+Systems+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=Electrical+Engineering+Graduate+%7C+MUST%2C+Pakistan;Power+Systems+%E2%80%A2+Smart+Grids+%E2%80%A2+Renewable+Energy;Building+AI-Powered+Tools+for+Future+Power+Networks" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Education](https://img.shields.io/badge/B.Sc._Electrical_Engineering-MUST-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Islamabad,_Pakistan-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![B.Sc. Electrical Engineering](https://img.shields.io/badge/B.Sc.-Electrical%20Engineering-6D28D9?style=for-the-badge&logo=ieee&logoColor=white)](https://www.must.edu.pk/)
+[![CGPA](https://img.shields.io/badge/CGPA-3.15%2F4.00-4C1D95?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/Based%20in-Mirpur%2C%20AJK%2C%20Pakistan-1F1B2E?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arslan--abbas-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslan-abbas)
+[![Email](https://img.shields.io/badge/Email-abbasarslan408%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasarslan408@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arslanabbas-eng)
 
-<a href="https://www.linkedin.com/in/arslan-abbas-a40aa5341?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abbasarslan408@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/arslan-abbas"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=arslan-abbas&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/arslan-abbas?color=7c3aed&style=for-the-badge&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/arslan-abbas?color=6d28d9&style=for-the-badge&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=arslanabbas-eng&label=Profile%20Views&color=6D28D9&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/arslanabbas-eng?label=Followers&style=for-the-badge&color=7C3AED)
+![Stars](https://img.shields.io/github/stars/arslanabbas-eng?label=Stars&style=for-the-badge&color=8B5CF6)
 
 </div>
-
----
-
-## 🔮 About Me
-
-```yaml
-name: "Arslan Abbas"
-role: "Electrical Engineering Graduate — Power Systems & Smart Grids"
-focus: "Applying AI/ML to renewable energy integration, microgrid control, and smart grid analytics"
-philosophy: "Bridging classical power engineering with data-driven, intelligent energy systems"
-```
-
-I'm an Electrical Engineering graduate from **Mirpur University of Science and Technology (MUST)** with a research-driven focus on **power systems, smart grids, and renewable energy integration** — increasingly applying **AI/ML and data engineering** to modernize how power networks are monitored, protected, and optimized. My work spans **IoT-based automation**, **power system simulation (ETAP, MATLAB)**, **SCADA and protection systems**, and **Python-based data analysis tools** for energy systems.
-
-I've worked hands-on with mission-critical data center infrastructure and one of Pakistan's largest hydroelectric generation facilities, giving me both **field-level power engineering depth** and a growing **software/AI engineering skill set** aimed at graduate-level research in intelligent power systems.
-
-**🎯 Open To:**
-
-- 🎓 Graduate research positions (MS/PhD) in Power Systems, Smart Grids & AI for Energy
-- 🔬 Research assistantships in renewable energy integration & microgrid optimization
-- 💼 Internships/roles in power systems software, energy analytics, or embedded control systems
-- 🤝 Collaboration on open-source tools for energy monitoring & simulation
-
----
-
-## 🧠 Tech Stack
 
 <div align="center">
 
-**Programming Languages**
-
-![Python](https://skillicons.dev/icons?i=py)
-![MATLAB](https://img.shields.io/badge/MATLAB-6D28D9?style=flat-square&logo=mathworks&logoColor=white)
-![C](https://skillicons.dev/icons?i=c)
-
-**Data & Visualization**
-
-![NumPy](https://img.shields.io/badge/NumPy-4C1D95?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=flat-square&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8B5CF6?style=flat-square&logo=scipy&logoColor=white)
-
-**Power Systems & Simulation**
-
-![ETAP](https://img.shields.io/badge/ETAP-4C1D95?style=flat-square&logo=poweredge&logoColor=white)
-![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD_Electrical-6D28D9?style=flat-square&logo=autocad&logoColor=white)
-![SCADA](https://img.shields.io/badge/SCADA-7C3AED?style=flat-square&logo=controlaltdelete&logoColor=white)
-![PLC/Ladder Logic](https://img.shields.io/badge/PLC_%2F_Ladder_Logic-8B5CF6?style=flat-square&logo=codefactor&logoColor=white)
-
-**Embedded & IoT**
-
-![ESP32](https://img.shields.io/badge/ESP32-4C1D95?style=flat-square&logo=espressif&logoColor=white)
-![IoT Sensors](https://img.shields.io/badge/IoT_Sensor_Systems-6D28D9?style=flat-square&logo=raspberrypi&logoColor=white)
-
-**Tooling**
-
-![Microsoft Office](https://skillicons.dev/icons?i=office)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+`Replace all instances of` **`arslanabbas-eng`** `above and below with your actual GitHub username once your account is created.`
 
 </div>
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🔷 About Me
+
+<table>
+<tr>
+<td>
+
+I'm an **Electrical Engineering graduate** from **Mirpur University of Science and Technology (MUST), Pakistan**, focused on the intersection of **power systems, smart grids, and applied AI/ML**. My work spans grid protection and load-flow analysis, renewable energy data analytics, and IoT-based automation — backed by hands-on experience at a **1,000+ MW hydroelectric station** and a **mission-critical data center facility**.
+
+I build engineering software with **Python (NumPy, Pandas, Matplotlib, SciPy)** and **MATLAB**, and run system-level studies in **ETAP**. My long-term goal is graduate research at the boundary of **power system engineering and machine learning** — designing smarter, more resilient, renewable-ready electrical grids.
+
+**🎯 Open To:** MS/PhD research assistantships · Power systems & smart grid research roles · Renewable energy & energy storage engineering · Data center electrical/power infrastructure roles · AI-for-energy collaborations
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Tech Stack
+
+**Programming & Scientific Computing**
+
+![Python](https://img.shields.io/badge/Python-1F1B2E?style=flat-square&logo=python&logoColor=8B5CF6)
+![NumPy](https://img.shields.io/badge/NumPy-1F1B2E?style=flat-square&logo=numpy&logoColor=8B5CF6)
+![Pandas](https://img.shields.io/badge/Pandas-1F1B2E?style=flat-square&logo=pandas&logoColor=8B5CF6)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1F1B2E?style=flat-square&logo=plotly&logoColor=8B5CF6)
+![SciPy](https://img.shields.io/badge/SciPy-1F1B2E?style=flat-square&logo=scipy&logoColor=8B5CF6)
+![MATLAB](https://img.shields.io/badge/MATLAB-1F1B2E?style=flat-square&logo=mathworks&logoColor=8B5CF6)
+
+**Power System & Engineering Software**
+
+![ETAP](https://img.shields.io/badge/ETAP-Power%20System%20Analysis-4C1D95?style=flat-square&logo=voltmeter&logoColor=white)
+![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-SLD%20%26%20Schematics-4C1D95?style=flat-square&logo=autocad&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-Ladder%20Logic-4C1D95?style=flat-square)
+![SCADA](https://img.shields.io/badge/SCADA-Real--time%20Monitoring-4C1D95?style=flat-square)
+
+**Hardware & Embedded**
+
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=8B5CF6)
+![Arduino](https://img.shields.io/badge/Sensors%20%26%20Actuators-000000?style=flat-square&logo=arduino&logoColor=8B5CF6)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-1F1B2E?style=flat-square&logo=git&logoColor=8B5CF6)
+![GitHub](https://img.shields.io/badge/GitHub-1F1B2E?style=flat-square&logo=github&logoColor=8B5CF6)
+![Excel](https://img.shields.io/badge/Excel-1F1B2E?style=flat-square&logo=microsoftexcel&logoColor=8B5CF6)
+![VS Code](https://img.shields.io/badge/VS%20Code-1F1B2E?style=flat-square&logo=visualstudiocode&logoColor=8B5CF6)
+
+---
+
+## 🧠 AI / ML for Power Systems — Focus Areas
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Generative AI & Prompt Engineering** | ⭐⭐⭐ | Applied prompt engineering practices to accelerate engineering documentation and analysis workflows |
-| **Data-Driven Energy Analytics** | ⭐⭐⭐⭐ | Python-based (NumPy, Pandas, Matplotlib) analysis of solar PV output vs. irradiance; microgrid power-flow visualization |
-| **Intelligent Control Algorithms** | ⭐⭐⭐⭐ | Designed sensor-driven decision logic for autonomous IoT irrigation control, cutting resource usage ~40% |
-| **AI for Power Systems (Research Interest)** | ⭐⭐⭐ | Actively pursuing graduate research applying ML techniques to load forecasting, fault detection & smart grid optimization |
+| Data-driven Solar PV Analysis | ⭐⭐⭐⭐ | Irradiance vs. output modeling using Pandas/Matplotlib |
+| Load Forecasting Concepts | ⭐⭐⭐ | Time-series exploration for demand-side data |
+| Microgrid Power Flow Visualization | ⭐⭐⭐⭐ | Python-based real-time power flow analysis tool |
+| Optimization for Control Logic | ⭐⭐⭐ | Threshold-based control (IoT irrigation project) applied to energy systems |
+| Prompt Engineering & Generative AI | ⭐⭐⭐ | Applying LLM tooling to engineering workflows and documentation |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🌱 IoT-Based Automated Plant Irrigation System with Optimized Water Management</b></summary>
+<summary><b>🔋 Solar PV Power Output Analysis</b></summary>
+<br>
 
-<br/>
+Data-driven analysis of photovoltaic performance evaluating the effect of solar irradiance on power output, using historical generation data.
 
-Final year thesis project — an autonomous irrigation system combining sensor fusion, real-time monitoring, and intelligent actuation to reduce agricultural water waste in arid regions.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | ESP32, Soil-Moisture & Ultrasonic Sensors, Relay Control, LCD Interface |
-| **Scale** | Single-node field deployment, real-time monitoring loop |
-| **Performance** | Automated activation/deactivation at 30%–70% soil moisture thresholds |
-| **Security** | Hardware-level relay interlocks preventing conflicting actuation states |
-| **Impact** | Reduced water usage by up to **40%**, fully autonomous operation |
-| **Repository** | `github.com/arslan-abbas/iot-irrigation-system` |
-
-Designed and implemented under the supervision of Dr. Muhammad Sajid at MUST, this system integrates sensing, decision-making, and actuation into a closed-loop autonomous pipeline — a foundational project connecting embedded systems with intelligent, data-driven control.
+| Stack | Scale | Performance | Impact | Repository |
+|---|---|---|---|---|
+| Python, Pandas, Matplotlib | Single-site dataset | Automated irradiance-output correlation | Supports renewable feasibility studies | [solar-pv-output-analysis](https://github.com/arslanabbas-eng/solar-pv-output-analysis) |
 
 </details>
 
 <details>
-<summary><b>⚡ Load Flow Analysis of the IEEE 14-Bus System (ETAP)</b></summary>
+<summary><b>🗺️ Microgrid Power Flow Visualization</b></summary>
+<br>
 
-<br/>
+A Python (NumPy, Pandas, Matplotlib) tool to analyze and display real-time power flow across a microgrid topology.
 
-Steady-state power flow modeling and analysis on the industry-standard IEEE 14-bus test system.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | ETAP, Power System Modeling |
-| **Scale** | 14-bus standard test network |
-| **Performance** | Steady-state convergence across multiple loading scenarios |
-| **Security** | N/A — offline simulation environment |
-| **Impact** | Benchmarked load-flow behavior for protection & planning studies |
-| **Repository** | `github.com/arslan-abbas/ieee-14-bus-loadflow` |
-
-A core power systems analysis project demonstrating practical application of load-flow theory to a widely recognized benchmark network.
+| Stack | Scale | Performance | Impact | Repository |
+|---|---|---|---|---|
+| Python, NumPy, Pandas, Matplotlib | Multi-bus microgrid model | Real-time-style visualization refresh | Demonstrates microgrid control & optimization skills | [microgrid-power-flow-viz](https://github.com/arslanabbas-eng/microgrid-power-flow-viz) |
 
 </details>
 
 <details>
-<summary><b>📊 Microgrid Power Flow Visualization Tool</b></summary>
+<summary><b>🔌 Load Flow Analysis — IEEE 14-Bus System</b></summary>
+<br>
 
-<br/>
+Modeled and analyzed steady-state power flow on the standard IEEE 14-bus test system using ETAP.
 
-A Python-based analytical tool for visualizing and interpreting real-time power flow within microgrid architectures.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, NumPy, Pandas, Matplotlib |
-| **Scale** | Microgrid-level simulation dataset |
-| **Performance** | Real-time-style plotting of power flow metrics |
-| **Security** | N/A — local analytical tool |
-| **Impact** | Improved interpretability of microgrid power distribution behavior |
-| **Repository** | `github.com/arslan-abbas/microgrid-powerflow-viz` |
-
-Built to bridge the gap between raw simulation data and actionable visual insight for microgrid control decisions.
+| Stack | Scale | Performance | Impact | Repository |
+|---|---|---|---|---|
+| ETAP, Power Systems Analysis | IEEE 14-Bus standard test case | Converged load-flow solution | Benchmarked against IEEE standard system results | [ieee14-bus-load-flow](https://github.com/arslanabbas-eng/ieee14-bus-load-flow) |
 
 </details>
 
 <details>
-<summary><b>☀️ Solar PV Power Output Analysis</b></summary>
+<summary><b>🔋 Battery Monitoring System (Data Center UPS)</b></summary>
+<br>
 
-<br/>
+Systematic monitoring approach for UPS battery banks, drawing on DC bus voltage, float voltage, load voltage, and charger output measurements from mission-critical data center operations.
 
-Data-driven analysis evaluating the relationship between solar irradiance and photovoltaic power output.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Pandas, Matplotlib, MATLAB (simulation) |
-| **Scale** | Multi-condition irradiance dataset |
-| **Performance** | Correlated irradiance variation to PV output efficiency |
-| **Security** | N/A — analytical research project |
-| **Impact** | Supports renewable-energy performance forecasting research |
-| **Repository** | `github.com/arslan-abbas/solar-pv-analysis` |
-
-Combines simulation (MATLAB) with data analysis (Python) to study real-world solar PV behavior under varying environmental conditions.
+| Stack | Scale | Performance | Impact | Repository |
+|---|---|---|---|---|
+| Python, Pandas, Electrical Measurement Logs | Data center battery bank | Structured logging & anomaly flagging | Supports zero-downtime maintenance planning | [dc-ups-battery-monitoring](https://github.com/arslanabbas-eng/dc-ups-battery-monitoring) |
 
 </details>
 
 <details>
-<summary><b>🔌 Three-Phase SPWM Inverter Design & Simulation</b></summary>
+<summary><b>🌱 IoT-Based Automated Plant Irrigation System</b></summary>
+<br>
 
-<br/>
+Final year thesis project: ESP32-based irrigation automation with soil-moisture/ultrasonic sensing, relay control, and a real-time LCD interface.
 
-Design and simulation of a sinusoidal pulse-width-modulation (SPWM) inverter circuit for three-phase power conversion.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | MATLAB/Simulink, Power Electronics |
-| **Scale** | Three-phase inverter circuit model |
-| **Performance** | Verified SPWM switching pattern and output waveform quality |
-| **Security** | N/A — simulation-based project |
-| **Impact** | Demonstrated core power electronics conversion principles |
-| **Repository** | `github.com/arslan-abbas/spwm-inverter` |
-
-A foundational power electronics project applying modulation theory to a practical inverter topology.
+| Stack | Scale | Performance | Impact | Repository |
+|---|---|---|---|---|
+| ESP32, Sensors, Embedded C | Field-deployable prototype | Up to 40% water usage reduction | Fully autonomous sense–decide–act pipeline | [iot-smart-irrigation](https://github.com/arslanabbas-eng/iot-smart-irrigation) |
 
 </details>
 
 <details>
-<summary><b>📟 Smart Grid Energy Monitoring Dashboard & Smart Energy Meter</b></summary>
+<summary><b>⚡ Three-Phase SPWM Inverter Design & Simulation</b></summary>
+<br>
 
-<br/>
+Designed and simulated a sinusoidal PWM inverter circuit for three-phase power conversion.
 
-Combined hardware-software project for real-time energy consumption monitoring and smart metering.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Embedded Systems, Sensor Integration, Dashboard Visualization |
-| **Scale** | Single-point metering with dashboard display |
-| **Performance** | Real-time energy consumption tracking |
-| **Security** | Isolated measurement circuitry for safe voltage/current sensing |
-| **Impact** | Prototype foundation for residential/commercial smart metering |
-| **Repository** | `github.com/arslan-abbas/smart-energy-meter` |
-
-An early step toward smart grid consumer-facing energy monitoring infrastructure.
+| Stack | Scale | Performance | Impact | Repository |
+|---|---|---|---|---|
+| MATLAB/Simulink, Power Electronics | Circuit-level simulation | Clean sinusoidal output waveform | Demonstrates power electronics fundamentals | [three-phase-spwm-inverter](https://github.com/arslanabbas-eng/three-phase-spwm-inverter) |
 
 </details>
 
@@ -226,33 +171,27 @@ An early step toward smart grid consumer-facing energy monitoring infrastructure
 
 ## 💼 Experience
 
-### Tameer-e-Mustaqabil Intern, Solutions Dept. (Data Centers)
-**DWP Group** · Islamabad, Pakistan
+**Tameer-e-Mustaqabil Intern — Solutions Dept. (Data Centers)**
+*DWP Group, Islamabad, Pakistan*
 
-Maintained mission-critical UPS and battery bank infrastructure for data center operations, ensuring zero unplanned downtime through rigorous testing and documentation.
+- Maintained and managed UPS systems and battery banks for mission-critical data center infrastructure
+- Conducted comprehensive electrical measurements and produced detailed reliability test logs
+- Designed single-line diagrams (SLDs), wiring layouts, and panel schematics in AutoCAD Electrical
+- Applied ETAP for protection studies, load-flow simulations, and fault analysis
 
-- Executed battery replacements, installations, and performance checks across UPS systems and battery banks
-- Conducted comprehensive electrical measurements (DC bus, float, load, charger output voltage, voltage drop) and produced test logs used for reliability improvements
-- Designed single-line diagrams (SLDs), wiring layouts, and panel schematics using **AutoCAD Electrical**
-- Performed battery backup and load-duration testing to evaluate real-load UPS performance
-- Applied **ETAP** for protection studies, load-flow simulation, and fault analysis
-- Produced structured technical and maintenance reports for cross-team knowledge transfer
+`Data Centers` `UPS Systems` `AutoCAD Electrical` `ETAP` `Protection Studies`
 
-`UPS Systems` `Battery Banks` `AutoCAD Electrical` `ETAP` `Fault Analysis` `Technical Documentation`
+<br>
 
----
+**Electrical Engineering Intern**
+*WAPDA Mangla Hydel Power Station, Mangla, Pakistan*
 
-### Electrical Engineering Intern
-**WAPDA Mangla Hydel Power Station** · Mangla, Pakistan
+- Contributed to design review and preventive maintenance for a 1,000+ MW hydroelectric facility
+- Diagnosed and resolved electrical faults in high-voltage transmission systems
+- Operated SCADA systems for real-time energy-flow tracking and protection relay testing
+- Gained direct exposure to grid integration and power dispatch operations
 
-Supported design review and preventive maintenance of electrical infrastructure at a 1,000+ MW hydroelectric facility — one of Pakistan's largest power stations.
-
-- Collaborated with senior engineers to diagnose and resolve high-voltage transmission system faults
-- Operated and monitored **SCADA** systems for real-time energy-flow tracking
-- Participated in protection relay testing to validate system safety and grid compliance
-- Gained direct exposure to grid integration challenges and large-scale power dispatch operations
-
-`SCADA` `Protection Relays` `High-Voltage Systems` `Grid Integration` `Fault Diagnosis`
+`Hydropower` `SCADA` `High-Voltage Systems` `Protection Relays` `Grid Operations`
 
 ---
 
@@ -262,10 +201,9 @@ Supported design review and preventive maintenance of electrical infrastructure 
 
 | Recognition | Details |
 |---|---|
-| 🎓 **B.Sc. Electrical Engineering (Honours)** | Mirpur University of Science and Technology — CGPA 3.15/4.0 |
-| 🔬 **Final Year Thesis Recognition** | IoT-Based Automated Plant Irrigation System — supervised research project |
-| 🏭 **Industry Placement** | Internship at 1,000+ MW WAPDA Mangla Hydel Power Station |
-| 🏢 **Data Center Infrastructure Program** | Selected for Tameer-e-Mustaqabil Internship, DWP Group |
+| Final Year Thesis Distinction | IoT-Based Automated Irrigation — 40% water usage reduction |
+| Industry Exposure | Internships at a 1,000+ MW hydel station and a live data center facility |
+| Multi-domain Project Portfolio | 15+ academic & independent projects across power systems and embedded systems |
 
 </div>
 
@@ -274,45 +212,38 @@ Supported design review and preventive maintenance of electrical infrastructure 
 ## 📜 Certifications & Professional Development
 
 **Schneider Electric University**
-
-![Digital Grid Unleashed](https://img.shields.io/badge/Digital_Grid_Unleashed-Feb_2025-6D28D9?style=for-the-badge&logo=schneiderelectric&logoColor=white)
+![Schneider Electric](https://img.shields.io/badge/Digital%20Grid%20Unleashed-Feb%202025-4C1D95?style=flat-square&logo=schneiderelectric&logoColor=white)
 
 **Asian Development Bank Institute**
+![ADBI](https://img.shields.io/badge/Green%20Investment%3A%20Renewable%20Energy-Jun%202025-6D28D9?style=flat-square)
 
-![Green Investment](https://img.shields.io/badge/Green_Investment:_Renewable_Energy-Jun_2025-7C3AED?style=for-the-badge&logo=leaflet&logoColor=white)
-
-**The Open University UK**
-
-![Climate Change](https://img.shields.io/badge/Climate_Change_%26_Renewable_Energy-May_2025-8B5CF6?style=for-the-badge&logo=openstreetmap&logoColor=white)
-![Renewable Sources](https://img.shields.io/badge/Can_Renewables_Power_the_World%3F-May_2025-A78BFA?style=for-the-badge&logo=solar&logoColor=white)
+**The Open University, UK**
+![Open University](https://img.shields.io/badge/Climate%20Change%20%26%20Renewable%20Energy-May%202025-7C3AED?style=flat-square)
+![Open University](https://img.shields.io/badge/Can%20Renewables%20Power%20the%20World%3F-May%202025-7C3AED?style=flat-square)
 
 **Forage Virtual Experience Program**
-
-![Engineering for New Energy](https://img.shields.io/badge/Engineering_for_New_Energy-Dec_2024-4C1D95?style=for-the-badge&logo=forage&logoColor=white)
+![Forage](https://img.shields.io/badge/Engineering%20for%20New%20Energy-Dec%202024-8B5CF6?style=flat-square)
 
 ---
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=arslanabbas-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
+<img height="165" src="https://streak-stats.demolab.com?user=arslanabbas-eng&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanabbas-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
 </div>
 
-
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arslan-abbas&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=arslanabbas-eng&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -322,7 +253,7 @@ Supported design review and preventive maintenance of electrical infrastructure 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arslan-abbas&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arslanabbas-eng&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" />
 
 </div>
 
@@ -332,42 +263,42 @@ Supported design review and preventive maintenance of electrical infrastructure 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arslan-abbas/arslan-abbas/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/arslanabbas-eng/arslanabbas-eng/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
+
+> Requires a one-time GitHub Actions workflow (`platane/snk`) on your profile repo to generate this SVG.
 
 ---
 
 ## 🎯 Current Focus
 
 ```yaml
-current_focus:
-  learning:
-    - "Machine Learning applications in power system fault detection & forecasting"
-    - "Advanced smart grid communication protocols"
-    - "Graduate-level research methodology in power engineering"
-  building:
-    - "Open-source tools for renewable energy data analysis"
-    - "Expanding IoT-based energy monitoring prototypes"
-  exploring:
-    - "Reinforcement learning for microgrid energy management"
-    - "Digital twins for power system simulation"
-  open_to:
-    - "MS/PhD research positions — Power Systems, Smart Grids, AI for Energy"
-    - "Research assistantships & internships in energy analytics"
-    - "Collaboration on open-source power systems software"
+learning:
+  - Advanced power system dynamics & stability
+  - Machine learning applications in smart grids
+  - Energy storage system modeling
+building:
+  - Python-based power system analysis tools
+  - Solar PV & load analytics dashboards
+exploring:
+  - Graduate research opportunities in renewable energy & AI
+  - International MS/PhD scholarships in electrical engineering
+open_to:
+  - Research collaborations
+  - Power systems / renewable energy internships & roles
+  - Data center power infrastructure roles
 ```
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect
 
 <div align="center">
 
-<a href="mailto:abbasarslan408@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/arslan-abbas-a40aa5341?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/arslan-abbas-a40aa5341?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-abbasarslan408%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasarslan408@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arslan--abbas-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslan-abbas)
+[![GitHub](https://img.shields.io/badge/GitHub-arslanabbas--eng-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arslanabbas-eng)
 
 </div>
 
@@ -375,8 +306,8 @@ current_focus:
 
 <div align="center">
 
-*"Powering the grid of tomorrow, one intelligent system at a time."*
+*"Power systems are the grid the world runs on — I want to help make that grid smarter, cleaner, and more resilient."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,10,12,14&section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
