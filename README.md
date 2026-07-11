@@ -9,12 +9,12 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Sc.%20Electrical%20Engineering-MUST-6D28D9?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Location-Islamabad%20%2F%20AJK%2C%20Pakistan-4C1D95?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Location-Islamabad%20%2F%20Gilgit%2C%20Pakistan-4C1D95?style=flat-square&labelColor=1a1a2e" />
 
 <br/><br/>
 
 <a href="https://abbas12-code-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://www.linkedin.com/in/abbas12-code-a40aa5341"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://www.linkedin.com/in/arslan-abbas-a40aa5341?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="mailto:abbasarslan408@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="https://github.com/abbas12-code"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
 
