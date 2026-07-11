@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/arslan-abbas"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arslan-abbas-a40aa5341?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abbasarslan408@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/arslan-abbas"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -57,7 +57,8 @@ I've worked hands-on with mission-critical data center infrastructure and one of
 **Programming Languages**
 
 ![Python](https://skillicons.dev/icons?i=py)
-![MATLAB](https://img.shields.io/badge/MATLAB-6D28D9?style=flat-square&logo=mathworks&logoColor=white)
+![MATLAB] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/>
+(https://img.shields.io/badge/MATLAB-6D28D9?style=flat-square&logo=mathworks&logoColor=white)
 ![C](https://skillicons.dev/icons?i=c)
 
 **Data & Visualization**
