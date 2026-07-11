@@ -6,7 +6,7 @@
 
 Mirpur University of Science and Technology (MUST), Pakistan
 
-[Email](mailto:abbasarslan408@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arslan-abbas) · [GitHub](https://github.com/arslanabbas-eng)
+[Email](mailto:abbasarslan408@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arslan-abbas-a40aa5341?utm_source=share_via&utm_content=profile&utm_medium=member_ios) · [GitHub](https://github.com/arslanabbas-eng)
 
 </div>
 
@@ -118,5 +118,5 @@ Designed and simulated a sinusoidal PWM inverter circuit for three-phase power c
 ## Contact
 
 **Email:** [abbasarslan408@gmail.com](mailto:abbasarslan408@gmail.com)
-**LinkedIn:** [linkedin.com/in/arslan-abbas](https://www.linkedin.com/in/arslan-abbas)
+**LinkedIn:** [linkedin.com/in/arslan-abbas](https://www.linkedin.com/in/arslan-abbas-a40aa5341?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 **GitHub:** [github.com/arslanabbas-eng](https://github.com/arslanabbas-eng)
