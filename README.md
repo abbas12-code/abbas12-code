@@ -531,7 +531,7 @@ Open To: ["Graduate Research", "AI for Energy Projects", "Power Systems Engineer
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-abbasarslan408%40gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasarslan408@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arslan--abbas-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslan-abbas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arslan--abbas-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslan-abbas-a40aa5341?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![GitHub](https://img.shields.io/badge/GitHub-arslanabbas408-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arslanabbas408)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-312e81?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
