@@ -487,16 +487,6 @@ Through internships at a **data center infrastructure team (DWP Group)** and **W
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/arslanabbas408/arslanabbas408/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</div>
-
-> Generated via the [platane/snk](https://github.com/Platane/snk) GitHub Action — add the workflow to your profile repo to auto-generate this weekly.
-
----
-
 ### 🧭 Engineering Dashboard
 
 | Metric | Summary |
