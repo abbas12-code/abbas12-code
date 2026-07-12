@@ -20,7 +20,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e1b4b?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-312e81?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslan-abbas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-312e81?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslan-abbas-a40aa5341?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Email](https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasarslan408@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arslanabbas408)
 
